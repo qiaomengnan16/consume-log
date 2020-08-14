@@ -1,4 +1,4 @@
-# consume-log
+# morney
 
 ## Project setup
 ```
